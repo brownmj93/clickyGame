@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/brownmj93/clickyGame/static/css/main.c136f42f.chunk.css",
+    "main.js": "/brownmj93/clickyGame/static/js/main.1ca25aea.chunk.js",
+    "main.js.map": "/brownmj93/clickyGame/static/js/main.1ca25aea.chunk.js.map",
+    "runtime-main.js": "/brownmj93/clickyGame/static/js/runtime-main.0e614cc8.js",
+    "runtime-main.js.map": "/brownmj93/clickyGame/static/js/runtime-main.0e614cc8.js.map",
+    "static/js/2.0f9c9e77.chunk.js": "/brownmj93/clickyGame/static/js/2.0f9c9e77.chunk.js",
+    "static/js/2.0f9c9e77.chunk.js.map": "/brownmj93/clickyGame/static/js/2.0f9c9e77.chunk.js.map",
+    "index.html": "/brownmj93/clickyGame/index.html",
+    "precache-manifest.3e049118080b99dafb336d1700a35cbb.js": "/brownmj93/clickyGame/precache-manifest.3e049118080b99dafb336d1700a35cbb.js",
+    "service-worker.js": "/brownmj93/clickyGame/service-worker.js",
+    "static/css/main.c136f42f.chunk.css.map": "/brownmj93/clickyGame/static/css/main.c136f42f.chunk.css.map",
+    "static/js/2.0f9c9e77.chunk.js.LICENSE": "/brownmj93/clickyGame/static/js/2.0f9c9e77.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e614cc8.js",
+    "static/js/2.0f9c9e77.chunk.js",
+    "static/css/main.c136f42f.chunk.css",
+    "static/js/main.1ca25aea.chunk.js"
+  ]
+}
