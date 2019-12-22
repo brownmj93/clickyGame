@@ -1,6 +1,5 @@
 {
-  
-  "homepage": "https://github.com/brownmj93/clickyGame",
+  "homepage": "https://brownmj93.github.io/clickyGame/",
   "name": "mcb-clicky-game",
   "version": "0.1.0",
   "private": true,
@@ -35,5 +34,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
   }
 }
